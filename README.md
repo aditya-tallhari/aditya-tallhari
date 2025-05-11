@@ -12,14 +12,14 @@
 - 📱 Passionate about building Android apps using Java and Firebase  
 - 🌐 Developing full-stack web applications with React, Tailwind CSS, and Firebase  
 - 🔭 Currently working on: EcoConnect – a platform to promote sustainable living  
-- 💬 Ask me about Android dev, Firebase integration, GitHub practices, and UI/UX  
-- 🌱 Currently learning: TypeScript, Jetpack Compose, Framer Motion  
+- 💬 Ask me about Android dev, Firebase integration, GitHub practices. 
+- 🌱 Currently learning: Nextjs, Backend Development. 
 - 🤝 Open to collaborate on real-world, impactful tech projects  
 - 📫 How to reach me:  
   - Email: adityatallare797@example.com  
   - LinkedIn: [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I reverse-engineer apps to understand their internal workings!
+- ⚡ Fun fact: I like to understand other app's internal workings!
 
 ---
 
@@ -62,15 +62,14 @@
 
 - 🥇 Completed Android Development Internship @ UEF EdTech (6 weeks)
 - 🛠️ Built and deployed 2+ full-stack projects (React + Firebase)
-- 🚀 Participated in multiple college-level hackathons
+- 🚀 Participated in college-level hackathons
 - 📜 Certificate: Firebase in Practice (LinkedIn Learning)
 
 ---
 ### 🧠 Fun & Goals
 
 - 📚 Mastering advanced state management in React & Context API  
-- 🚀 Planning to publish my first Android app on the Google Play Store  
-- 🧩 Exploring motion UI design with Framer Motion and Lottie animations  
+- 🚀 Planning to publish my first Android app on the Google Play Store    
 - 🌐 Contributing more to open-source and hackathons in 2025  
 
 ---
