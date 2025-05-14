@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Aditya Tallhari</h1>
+<h1 align="center">Hi, I'm Aditya Tallhari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Android+%26+Web+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%94%8E" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Android+and+Web+Developer;Open+Source+Enthusiast;Tech+Explorer" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 2nd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur  
-- 📱 Passionate about building Android apps using Java and Firebase  
-- 🌐 Developing full-stack web applications with React, Tailwind CSS, and Firebase  
-- 🔭 Currently working on: EcoConnect – a platform to promote sustainable living  
-- 💬 Ask me about Android dev, Firebase integration, GitHub practices. 
-- 🌱 Currently learning: Nextjs, Backend Development. 
-- 🤝 Open to collaborate on real-world, impactful tech projects  
-- 📫 How to reach me:  
+- Currently a 2nd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur  
+- Passionate about building Android apps using Java and Firebase  
+- Developing full-stack web applications with React, Tailwind CSS, and Firebase  
+- Working on **EcoConnect**, a platform that promotes sustainable living  
+- Open to collaboration on meaningful and impactful technology projects  
+- Currently exploring: Next.js and Backend Development  
+- Reach me at:
   - Email: adityatallare797@example.com  
   - LinkedIn: [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I like to understand other app's internal workings!
+- Pronouns: He/Him  
+- Motivated by curiosity about how modern apps are built and optimized
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -34,7 +33,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/Aditya-tallhari/eco-connect">
@@ -50,7 +49,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight" />
@@ -58,28 +57,31 @@
 </p>
 
 ---
-### 🏆 Achievements
 
-- 🥇 Completed Android Development Internship @ UEF EdTech (6 weeks)
-- 🛠️ Built and deployed 2+ full-stack projects (React + Firebase)
-- 🚀 Participated in college-level hackathons
-- 📜 Certificate: Firebase in Practice (LinkedIn Learning)
+### Achievements
 
----
-### 🧠 Fun & Goals
-
-- 📚 Mastering advanced state management in React & Context API  
-- 🚀 Planning to publish my first Android app on the Google Play Store    
-- 🌐 Contributing more to open-source and hackathons in 2025  
+- Completed Android Development Internship at UEF EdTech (6 weeks)
+- Built and deployed multiple full-stack projects using React and Firebase
+- Participated in college-level hackathons
+- Completed Firebase in Practice certification (LinkedIn Learning)
 
 ---
 
-### 🎯 Goals for 2025
+### Learning & Development Focus
 
-- ✨ Improve design thinking and UI/UX skills with real-world projects
-- 🎓 Maintain CGPA 8.5+ and expand domain knowledge
-- 👥 Build a strong developer network via LinkedIn and GitHub
-- 🌍 Contribute to meaningful open source projects
+- Mastering advanced state management in React and Context API  
+- Preparing to publish an Android application on the Google Play Store  
+- Aiming to contribute more to open-source projects and technical hackathons in 2025  
 
+---
 
-Thanks for visiting my profile! 😊 Let’s connect and create impactful tech solutions together.
+### Goals for 2025
+
+- Strengthen UI/UX skills through practical projects  
+- Maintain a CGPA above 8.5 while deepening technical knowledge  
+- Expand professional network via LinkedIn and GitHub  
+- Collaborate on open-source software addressing real-world challenges  
+
+---
+
+Thank you for visiting my profile. Let’s connect and build something impactful.
