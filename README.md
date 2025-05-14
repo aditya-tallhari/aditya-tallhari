@@ -37,14 +37,14 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Aditya-tallare/eco-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallare&repo=eco-connect&theme=tokyonight" />
+  <a href="https://github.com/Aditya-tallhari/eco-connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=eco-connect&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Aditya-tallare/AI-Powered-Sign-Language-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallare&repo=AI-Powered-Sign-Language-Translator&theme=tokyonight" />
+  <a href="https://github.com/Aditya-tallhari/AI-Powered-Sign-Language-Translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=AI-Powered-Sign-Language-Translator&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Aditya-tallare/Aditya-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallare&repo=Aditya-Portfolio&theme=tokyonight" />
+  <a href="https://github.com/Aditya-tallhari/Aditya-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=Aditya-Portfolio&theme=tokyonight" />
   </a>
 </p>
 
