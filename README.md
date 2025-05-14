@@ -1,85 +1,58 @@
-<h1 align="center">Hi 👋, I'm Aditya Tallhari</h1>
+<h1 align="center">Hi 👋, I'm Aditya Tallhari</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Android+%26+Web+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%94%8E" /> </p>
+👨‍💻 About Me
+🎓 2nd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Android+%26+Web+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%94%8E" />
-</p>
+📱 Passionate about building Android applications using Java and Firebase
 
----
+🌐 Full-stack web development experience with React, Tailwind CSS, and Firebase
 
-### 👨‍💻 About Me
+🔭 Currently working on EcoConnect – a platform to promote sustainable living
 
-- 🎓 2nd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur  
-- 📱 Passionate about building Android apps using Java and Firebase  
-- 🌐 Developing full-stack web applications with React, Tailwind CSS, and Firebase  
-- 🔭 Currently working on: EcoConnect – a platform to promote sustainable living  
-- 💬 Ask me about Android dev, Firebase integration, GitHub practices. 
-- 🌱 Currently learning: Nextjs, Backend Development. 
-- 🤝 Open to collaborate on real-world, impactful tech projects  
-- 📫 How to reach me:  
-  - Email: adityatallare797@example.com  
-  - LinkedIn: [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I like to understand other app's internal workings!
+🌱 Learning Next.js and backend development to deepen my full-stack capabilities
 
----
+🤝 Open to collaborating on impactful, real-world tech projects
 
-### 🚀 Tech Stack
+💬 Ask me about Android development, Firebase integration, or GitHub practices
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+📫 Reach out via:
 
----
+📧 Email: adityatallare797@example.com
 
-### 📌 Featured Projects
+💼 LinkedIn
 
-<p align="center">
-  <a href="https://github.com/Aditya-tallhari/eco-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=eco-connect&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Aditya-tallhari/AI-Powered-Sign-Language-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=AI-Powered-Sign-Language-Translator&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Aditya-tallhari/Aditya-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=Aditya-Portfolio&theme=tokyonight" />
-  </a>
-</p>
+😄 Pronouns: He/Him
 
----
+⚡ Fun fact: I enjoy reverse-engineering apps to understand how they work internally!
 
-### 📈 GitHub Stats
+🚀 Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+📌 Featured Projects
+<p align="center"> <a href="https://github.com/Aditya-tallhari/eco-connect"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=eco-connect&theme=tokyonight" /> </a> <a href="https://github.com/Aditya-tallhari/AI-Powered-Sign-Language-Translator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=AI-Powered-Sign-Language-Translator&theme=tokyonight" /> </a> <a href="https://github.com/Aditya-tallhari/Aditya-Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=Aditya-Portfolio&theme=tokyonight" /> </a> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tallhari&theme=tokyonight" /> </p>
+🏆 Achievements
+✅ Completed a 6-week Android Development Internship at UEF EdTech
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tallhari&theme=tokyonight" />
-</p>
+🛠️ Built and deployed multiple full-stack applications using React + Firebase
 
----
-### 🏆 Achievements
+🚀 Participated in college-level hackathons
 
-- 🥇 Completed Android Development Internship @ UEF EdTech (6 weeks)
-- 🛠️ Built and deployed 2+ full-stack projects (React + Firebase)
-- 🚀 Participated in college-level hackathons
-- 📜 Certificate: Firebase in Practice (LinkedIn Learning)
+📜 Earned the “Firebase in Practice” certification (LinkedIn Learning)
 
----
-### 🧠 Fun & Goals
+🎯 2025 Goals
+✨ Enhance UI/UX and design thinking through real-world projects
 
-- 📚 Mastering advanced state management in React & Context API  
-- 🚀 Planning to publish my first Android app on the Google Play Store    
-- 🌐 Contributing more to open-source and hackathons in 2025  
+🎓 Maintain a CGPA of 8.5+ and broaden domain expertise
 
----
+👥 Grow my developer network via LinkedIn, GitHub, and communities
 
-### 🎯 Goals for 2025
+🌍 Contribute to open-source projects that drive real impact
 
-- ✨ Improve design thinking and UI/UX skills with real-world projects
-- 🎓 Maintain CGPA 8.5+ and expand domain knowledge
-- 👥 Build a strong developer network via LinkedIn and GitHub
-- 🌍 Contribute to meaningful open source projects
+📱 Launch my first Android app on the Play Store
 
+💡 Personal Mission
+To build tech that’s simple, meaningful, and accessible — whether it's an app that solves daily problems or a platform that supports a cause.
 
-Thanks for visiting my profile! 😊 Let’s connect and create impactful tech solutions together.  
+Thanks for visiting my profile! 😊
+Let’s connect, collaborate, and create meaningful tech together.
+
