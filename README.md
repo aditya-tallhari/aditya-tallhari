@@ -15,7 +15,7 @@
 - Open to collaboration on meaningful and impactful technology projects  
 - Currently exploring: Next.js and Backend Development  
 - Reach me at:
-  - Email: adityatallare797@example.com  
+  - Email: adityatallare797@gmail.com  
   - LinkedIn: [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
 - Pronouns: He/Him  
 - Motivated by curiosity about how modern apps are built and optimized
