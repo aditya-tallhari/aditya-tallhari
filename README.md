@@ -8,18 +8,16 @@
 
 ### About Me
 
-- Currently a 2nd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur  
-- Passionate about building Android apps using Java and Firebase  
+- Currently a 3rd-year B.Tech student in Computer Engineering at R.C. Patel Institute of Technology, Shirpur   
 - Developing full-stack web applications with React, Tailwind CSS, and Firebase  
 - Working on **EcoConnect**, a platform that promotes sustainable living  
 - Open to collaboration on meaningful and impactful technology projects  
-- Currently exploring: Next.js and Backend Development  
+- Currently exploring: React.js and Backend Development  
 - Reach me at:
   - Email: adityatallare797@gmail.com  
   - LinkedIn: [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
 - Pronouns: He/Him  
 - Motivated by curiosity about how modern apps are built and optimized
-
 ---
 
 ### Tech Stack
