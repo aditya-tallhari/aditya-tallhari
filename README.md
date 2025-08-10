@@ -1,70 +1,40 @@
-<!-- Profile Header with Background Video Effect -->
+<!-- Profile Header -->
 <div align="center" style="position: relative; overflow: hidden;">
-  <video autoplay muted loop style="width: 100%; position: absolute; z-index: -1; object-fit: cover; top: 0; left: 0; height: 100%;">
+  <video autoplay muted loop playsinline style="width: 100%; position: absolute; z-index: -1; object-fit: cover; top: 0; left: 0; height: 100%;">
     <source src="https://assets.mixkit.co/videos/preview/mixkit-coding-close-up-1553-large.mp4" type="video/mp4">
   </video>
-  <h1 style="color: white; padding-top: 50px;">Hi, I'm Aditya Tallhari 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Android+App+Developer;Open+Source+Contributor;Tech+Explorer" />
+  
+  <!-- Glitch/Typing Effect -->
+  <h1 style="color: white; padding-top: 50px; font-size: 3rem; font-weight: bold;">🚀 Aditya Tallhari</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;AI+Experimenter;Open+Source+Contributor;Tech+Explorer+%7C+Lifelong+Learner" />
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
-- 🎓 **3rd-year B.Tech in Computer Engineering** @ R.C. Patel Institute of Technology, Shirpur  
-- 💻 Passionate about **Full-Stack Development** & **Mobile Apps**  
-- 🌱 Currently building **Book-Store** — a MERN-based e-commerce platform  
-- 🤝 Open to collaborating on impactful **open-source & real-world projects**  
-- 📍 Exploring **React.js, Node.js, MongoDB, Express.js, and Firebase**  
-- 📧 **Email:** adityatallare797@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/aditya-tallhari-005926284](https://www.linkedin.com/in/aditya-tallhari-005926284/)  
-- 💡 Driven by curiosity about how modern applications are **built, scaled, and optimized**
+## ✨ Who Am I?
+> _"Turning coffee into code, and ideas into reality."_  
+
+🎓 **3rd-year Computer Engineering Student** at RCPIT, Shirpur  
+💡 Passionate about **Full-Stack Web & Android Development**  
+🛠 Currently building **MERN-based Book-Store platform**  
+🔍 Exploring **AI-powered apps** with OpenAI & TensorFlow.js  
+🌏 Advocate for **open-source collaboration**  
+📬 **Reach me:** adityatallare797@gmail.com | [LinkedIn](https://www.linkedin.com/in/aditya-tallhari-005926284/)
 
 ---
 
-## 💻 Skills & Technologies
+## 🛠 Tech Arsenal
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Libraries & Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-**Backend & Hosting**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**AI & Utilities**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**OS & Development Environment**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+| **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
+|--------------|----------------|----------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=fff) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff) | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=fff) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=fff) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=000) |
 
 ---
 
-## 📌 Featured Projects
-
+## 🚀 Featured Projects
+💡 _Click to explore_  
 <p align="center">
   <a href="https://github.com/Aditya-tallhari/eco-connect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=eco-connect&theme=tokyonight" />
@@ -79,7 +49,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
+✅ Android Development Intern @ UEF EdTech  
+🚀 Built & deployed multiple **full-stack projects**  
+🏅 Hackathon participant & open-source contributor  
+📜 Certification: **Firebase in Practice** (LinkedIn Learning)
+
+---
+
+## 🎯 2025 Goals
+- **Publish** an Android app on Play Store  
+- **Contribute** to impactful open-source projects  
+- **Maintain CGPA** > 8.5 while sharpening backend skills  
+- **Enhance UI/UX** with design-focused projects  
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight" />
@@ -88,20 +72,4 @@
 
 ---
 
-## 🏆 Achievements
-- ✅ Completed **Android Development Internship** @ UEF EdTech (6 weeks)  
-- 🚀 Built & deployed **multiple full-stack projects** using MERN & Firebase  
-- 🏅 Participated in **college-level hackathons**  
-- 📜 **Firebase in Practice** Certification (LinkedIn Learning)
-
----
-
-## 🎯 2025 Goals
-- Enhance **UI/UX skills** via practical projects  
-- Maintain **CGPA above 8.5** while deepening backend expertise  
-- Publish an **Android app on Google Play Store**  
-- Contribute to **open-source projects** with real-world impact  
-
----
-
-💬 *Thanks for visiting my profile! Let’s connect and build something amazing.*
+💬 _Thanks for visiting my profile — let’s build something extraordinary together!_
