@@ -72,4 +72,4 @@
 
 ---
 
-💬 _Thanks for visiting my profile — let’s build something extraordinary together!_
+💬 _Thanks for visiting my profile — let’s build something extraordinary together!
