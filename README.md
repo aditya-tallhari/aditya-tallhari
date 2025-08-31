@@ -179,7 +179,7 @@ const aditya = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-tallhari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatallare797@gmail.com)
 
-[![Visitors](https://visitcount.itsvg.in/api?id=Aditya-tallhari&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-tallhari.Aditya-tallhari)
 
 ---
 
