@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Java-red" />
   </p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio-link.com](https://adityatallhari-portfolio.vercel.app/))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://adityatallhari-portfolio.vercel.app/)])
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tallhari-005926284/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatallare797@gmail.com)
   
