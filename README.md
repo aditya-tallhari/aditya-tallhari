@@ -318,7 +318,7 @@ const aditya = {
 **B.Tech in Computer Engineering**  
 📍 R.C. Patel Institute of Technology, Shirpur  
 📅 2024 - 2027 (Expected)  
-🎯 Current CGPA: 8.7+  
+🎯 Current CGPA: 8.74  
 
 </td>
 <td>
