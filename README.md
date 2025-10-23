@@ -120,6 +120,7 @@
 
 ### 📜 Certifications
 🎖️ **Postman API Fundamentals Student Expert** - 2025
+🎖️ **MongoDB Developer's Toolkit: CRUD Mastery with Node.js, Java, Python, C#** - 2025
 
 ### 🎯 Academic Excellence
 📚 **CGPA:** Maintaining > 8.5  
@@ -140,7 +141,7 @@
 
 **Problem Solving Stats:** 🎯 **150+** Problems Solved | 📈 **Consistent** Daily Practice
 
-**Currently Learning:** Advanced React Patterns | Backend Scalability | AI Integration | Android Development
+**Currently Learning:** Backend Scalability | AI Integration | Android Development
 
 </div>
 
@@ -164,7 +165,7 @@ const aditya = {
         mobile: ['Android', 'React Native']
     },
     currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+    funFact: "I debug with console.log()"
 };
 ```
 
