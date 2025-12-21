@@ -1,190 +1,149 @@
-# 👋 Hi there! I'm Aditya Tallhari
+<h1 align="center">⚡ Aditya Tallhari ⚡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Android+App+Developer+%F0%9F%93%B1;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%90;Let's+Code+the+Future!+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
+
+---
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+App+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-white" />
-    <img src="https://img.shields.io/badge/Lives-Shirpur,%20Maharashtra-blue" />
-    <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Java-red" />
-  </p>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://adityatallhari-portfolio.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tallhari-005926284/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatallare797@gmail.com)
-  
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="550">
+<br><br>
+<p align="center">
+    <a href="https://adityatallhari-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/aditya-tallhari-005926284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:adityatallare797@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 </div>
 
-## 🎯 About Me
+---
 
-🎓 **Computer Engineering Student** (3rd Year) at **R.C. Patel Institute of Technology, Shirpur**  
-💻 **Full Stack Developer** passionate about creating scalable web applications and mobile solutions  
-🚀 **Tech Enthusiast** exploring AI/ML integration and modern development practices  
-🌟 **Problem Solver** with experience in competitive programming and real-world project development
+### 🖤 About Me  
 
-### 🌟 What I'm Currently Working On
-📚 **BookStore Platform** - A comprehensive MERN stack application with advanced features
+- 🎓 **3rd Year B.Tech in Computer Engineering** @ **R.C. Patel Institute of Technology, Shirpur**
+- 💻 **Full Stack Developer** specializing in MERN and Android solutions.
+- 🚀 **Tech Enthusiast** exploring the intersection of AI and web scalability.
+- 📚 **Current Focus:** Building a comprehensive **BookStore Platform** with advanced MERN features.
+- 🌟 **Problem Solver:** Passionate about competitive programming and solving real-world challenges.
 
-## 🛠️ Technology Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center">
+---
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Tech Arsenal  
 
-### 🚀 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases & Mobile
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-
-### 🔧 Tools & Cloud
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tallhari&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tallhari&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🌱 EcoConnect - Environmental Awareness Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=eco-connect&theme=tokyonight)](https://github.com/Aditya-tallhari/eco-connect)
-
-**Tech Stack:** React, Node.js, Express, MongoDB  
-**Features:** Environmental tracking, community engagement
-
-### 🤖 AI-Powered Sign Language Translator
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=AI-Powered-Sign-Language-Translator&theme=tokyonight)](https://github.com/Aditya-tallhari/AI-Powered-Sign-Language-Translator)
-
-**Tech Stack:** Python, TensorFlow, OpenCV, Machine Learning  
-**Features:** Real-time gesture recognition
-
-### 💼 Personal Portfolio Website
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-tallhari&repo=Aditya-Portfolio&theme=tokyonight)](https://github.com/Aditya-tallhari/Aditya-Portfolio)
-
-**Tech Stack:** React, TailwindCSS, Framer Motion  
-**Features:** responsive design, project showcase
-
-</div>
-
-## 🏅 Experience & Achievements
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">  
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,c,js,mysql,html,css,git,github,tailwind,bootstrap,redux,firebase,android,postman,vercel,vscode&perline=10" />  
+</p>  
 
 <table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend/DB</strong></td>
+    <td align="center" width="25%"><strong>Tools/Mobile</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="30"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="30"><br>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="30"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30">
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="30"> <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="30"><br>
+      <img src="https://img.icons8.com/color/48/000000/redux.png" width="30"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30">
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="30">
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/android-os.png" width="30"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="30"><br>
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="30"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" width="30">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=00D9FF" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tallhari&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&currStreakLabel=00D9FF" height="170px"/>
+</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tallhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=000000" height="160px"/>
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🌱 EcoConnect** | Environmental awareness platform with tracking features. | `React` `Node.js` `MongoDB` |
+| **🤖 AI Sign Translator** | Real-time sign language gesture recognition system. | `Python` `TensorFlow` `OpenCV` |
+| **💼 Portfolio** | Modern, responsive developer portfolio with animations. | `React` `Tailwind` `Framer` |
+
+</div>
+
+---
+
+### 🏅 Experience & Achievements
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-### 💼 Experience
-🏢 **Android Development Intern**  
-📍 UEF EdTech (6 weeks) - 2024
-
-### 🏆 Competitions
-🚀 **College Hackathons**  
-🎯 **Technical Competitions**  
-💡 **Innovation Challenges**
+#### 💼 Experience
+- 🏢 **Android Development Intern** 📍 UEF EdTech (6 weeks) - 2024
+- 🚀 **College Hackathons** (Participant & Winner)
+- 🎯 **Technical Competitions** & Innovation Challenges
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
-### 📜 Certifications
-🎖️ **Postman API Fundamentals Student Expert** - 2025
-🎖️ **MongoDB Developer's Toolkit: CRUD Mastery with Node.js, Java, Python, C#** - 2025
-
-### 🎯 Academic Excellence
-📚 **CGPA:** Maintaining > 8.5  
-🎓 **B.Tech Computer Engineering**  
-📈 **Consistent Academic Performance**
+#### 📜 Certifications & Stats
+- 🎖️ **Postman API Fundamentals Student Expert**
+- 🎖️ **MongoDB Developer's Toolkit Mastery**
+- 📚 **Academic Excellence:** CGPA > 8.5
+- 🎯 **150+** LeetCode / CodeChef Problems Solved
 
 </td>
 </tr>
 </table>
 
-## 💻 Competitive Programming & Learning
+---
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aditya_tallhari_/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/basic_spark_55)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityatallare797)
-
-**Problem Solving Stats:** 🎯 **150+** Problems Solved | 📈 **Consistent** Daily Practice
-
-**Currently Learning:** Backend Scalability | AI Integration | Android Development
-
-</div>
-
-## 💡 Development Philosophy
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-```javascript
-const aditya = {
-    code: ['JavaScript', 'Python', 'Java', 'C'],
-    askMeAbout: ['web dev', 'android dev', 'tech', 'app dev'],
-    technologies: {
-        frontEnd: {
-            js: ['React', 'Redux'],
-            css: ['TailwindCSS', 'Bootstrap']
-        },
-        backEnd: {
-            js: ['Node.js', 'Express']
-        },
-        databases: ['MongoDB', 'MySQL', 'Firebase'],
-        mobile: ['Android', 'React Native']
-    },
-    currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "I debug with console.log()"
-};
-```
-
-## 📫 Let's Collaborate!
-
-<div align="center">
-
-**Open to:** Collaboration on innovative projects | Open Source contributions | Knowledge sharing | Internship opportunities | Freelance projects
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adityatallhari-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tallhari-005926284/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-tallhari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatallare797@gmail.com)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-tallhari.Aditya-tallhari)
+### 💻 Competitive Programming
+<p align="center">
+  <a href="https://leetcode.com/u/aditya_tallhari_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+  <a href="https://www.codechef.com/users/basic_spark_55"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/adityatallare797"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
 
 ---
 
-**⭐ Star my repositories if you find them interesting!**  
-**📢 Feel free to reach out for collaborations or just a friendly chat about tech!**
+### 💡 Development Philosophy
+```javascript
+const aditya = {
+    code: ['JavaScript', 'Python', 'Java', 'C'],
+    specialties: ['MERN', 'Android', 'AI Integration'],
+    philosophy: "Code is like humor. When you have to explain it, it's bad.",
+    currentGoal: "Building scalable, user-centric ecosystems",
+    funFact: "I debug with ... console.log()"
+};
+```
 
-</div>
+🕶️ Fun Fact
+"Code. Break. Create. Repeat."
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+⚡ Let’s Connect! <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-tallhari.Aditya-tallhari" />
+
+</p>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00D9FF%26height%3D100%26section%3Dfooter%26animation%3DfadeIn" width="100%"/> </div>
