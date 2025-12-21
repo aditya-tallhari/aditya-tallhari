@@ -37,32 +37,25 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,c,js,mysql,html,css,git,github,tailwind,bootstrap,redux,firebase,android,postman,vercel,vscode&perline=10" />  
 </p>  
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend/DB</strong></td>
-    <td align="center" width="25%"><strong>Tools/Mobile</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="30"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="30"><br>
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="30"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30">
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="30"> <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="30"><br>
-      <img src="https://img.icons8.com/color/48/000000/redux.png" width="30"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30">
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="30">
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/android-os.png" width="30"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="30"><br>
-      <img src="https://img.icons8.com/color/48/000000/git.png" width="30"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" width="30">
-    </td>
-  </tr>
-</table>
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&perline=10" height="50" />
+</p>
+
+#### ⚙️ Backend & Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c&perline=10" height="50" />
+</p>
+
+#### 🗄️ Database Solutions
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=10" height="50" />
+</p>
+
+#### 🛠️ Mobile & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=10" height="50" />
+</p>
 
 ---
 
