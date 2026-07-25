@@ -17,35 +17,35 @@
 
 ---
 
-### 🖤 About Me  
+### About Me  
 
-- 🎓 **4th Year B.Tech in Computer Engineering** @ **R.C. Patel Institute of Technology, Shirpur**
-- 💻 **Full Stack Developer** specializing in MERN and Android solutions.
-- 🚀 **Tech Enthusiast** exploring the intersection of AI and web scalability.
-- 📚 **Current Focus:** Building a comprehensive **AI Platform For Outreach Generations and Cold Mailing** with MERN features and NEXT JS.
-- 🌟 **Problem Solver:** Passionate about competitive programming and solving real-world challenges.
+- **4th Year B.Tech in Computer Engineering** @ **R.C. Patel Institute of Technology, Shirpur**
+- **Full Stack Developer** specializing in MERN and Android solutions.
+- **Tech Enthusiast** exploring the intersection of AI and web scalability.
+- **Current Focus:** Building a comprehensive **AI Platform For Outreach Generations and Cold Mailing** with MERN features and NEXT JS.
+- **Problem Solver:** Passionate about competitive programming and solving real-world challenges.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
-### 🚀 Tech Arsenal  
+### Tech Arsenal  
 
 <p align="center">  
   <!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">   -->
 </p>  
 
-#### 🌐 Frontend Development
+#### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap&perline=10" height="50" />
 </p>
 
-#### ⚙️ Backend & Systems
+#### Backend & Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c,cpp&perline=10" height="50" />
 </p>
 
-#### 🗄️ Database Solutions
+#### Database Solutions
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&perline=10" height="50" />
 </p>
@@ -55,14 +55,14 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&perline=10" height="50" />
 </p>
 
-#### 🛠️ Tools & Platforms
+#### Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,docker,linux&perline=10" height="50" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+### GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=00D9FF" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tallhari&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&currStreakLabel=00D9FF" height="170px"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 ---
 
 
-### 💻 Competitive Programming
+### Competitive Programming
 <p align="center">
   <a href="https://leetcode.com/u/aditya_tallhari_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
   <a href="https://www.codechef.com/users/basic_spark_55"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
@@ -101,7 +101,7 @@
 
 ---
 
-### 💡 Development Philosophy
+### Development Philosophy
 ```javascript
 const aditya = {
     code: ['JavaScript', 'Python', 'Java', 'C'],
@@ -112,12 +112,12 @@ const aditya = {
 };
 ```
 
-🕶️ Fun Fact
+Fun Fact
 "Code. Break. Create. Repeat."
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-⚡ Let's Connect!
+Let's Connect!
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-tallhari.Aditya-tallhari" />
 </p>
