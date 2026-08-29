@@ -62,17 +62,35 @@
 
 ---
 
-### GitHub Analytics  
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-tallhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=00D9FF" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-tallhari&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&currStreakLabel=00D9FF" height="170px"/>
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tallhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=000000" height="160px"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-tallhari&theme=tokyonight"
+    width="95%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-tallhari&theme=tokyo-night&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=ffffff" width="90%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-tallhari&theme=tokyonight"
+    width="47%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-tallhari&theme=tokyonight&utcOffset=5.5"
+    width="47%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-tallhari&theme=tokyonight"
+    width="47%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-tallhari&theme=tokyonight"
+    width="47%"
+  />
 </p>
 
 ---
