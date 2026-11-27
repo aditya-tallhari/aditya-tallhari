@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3aWYyODdyeTNpbjJveXRrNGsyMjlyaTZiZ2pvdWd2OHc4dnN0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" width="550">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNoNTNpYmF1ZGhheDdldGJma2hwdmdidmEzaGpqYmtybHc2eWR3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AsuCf15CIj0Va/giphy.gif" width="550">
 <br><br>
 <p align="center">
     <a href="https://adityatallhari.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
